@@ -21,7 +21,7 @@ module.exports = {
             "always"
         ]
     },
-    "parser":"babel-eslint",
+    "parser": "babel-eslint",
     "parserOptions": {
         "ecmaVersion": 5
     },
